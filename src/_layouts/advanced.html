@@ -1,0 +1,9 @@
+---
+layout: body
+---
+
+{% for section in sections %}
+  
+  {% assign component = section.type | append: ".liquid" %}
+  {% include {{ component }} section=section site=site %}
+{% endfor %}
