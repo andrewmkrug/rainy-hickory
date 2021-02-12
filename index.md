@@ -329,7 +329,7 @@ sections:
       - type: action
         label: View All
         url: /blog
-        style: secondary
+        style: link
     blog_feed_cols: three
     enable_cards: true
     show_recent: true
