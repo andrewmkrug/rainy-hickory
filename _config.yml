@@ -3,7 +3,7 @@ baseurl: /
 permalink: '/:title/'
 description: A "do it yourself" theme for Stackbit
 layout_type: boxed
-style: classic
+style: minimal
 palette: blue
 mode: light
 base_font: serif
