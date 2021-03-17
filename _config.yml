@@ -18,6 +18,7 @@ header:
       label: Features
       url: /features
       style: link
+      has_icon: true
     - type: action
       label: Pricing
       url: /pricing
