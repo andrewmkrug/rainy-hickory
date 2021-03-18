@@ -35,6 +35,15 @@ header:
       label: Style Guide
       url: /style-guide
       style: link
+    - label: lorem-ipsum
+      url: lorem-ipsum
+      style: link
+      has_icon: false
+      icon: arrow-left
+      icon_position: right
+      new_window: false
+      no_follow: false
+      type: action
   has_secondary_nav: true
   secondary_nav_links:
     - type: action
